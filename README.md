@@ -5,7 +5,7 @@ My area of expertise are Pentesting, Red teaming, Incident Response, Ethical hac
 
 I'm looking for work in cyber security related such as Pen-testing, Red team, Digital Forensics, SOC, Cloud Security. 	
 
-Please feel free to contact me on [Linkedin](https://www.linkedin.com/in/jimsolomonx/) for any job offers. Thanks!
+Please feel free to contact me on [Linkedin](https://www.linkedin.com/in/jimsolomonx/) for any job offering. Thanks!
 # Below are projects I have done in the past
 
 |                                                                                                      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
