@@ -1,12 +1,11 @@
 Hi there, my name is Jim Solomon and I have 4 years experience in Offensive Security and will be graduated on May 2023 from University.  Therefore l'm looking for work.
 
-I've been doing Pentesting and Red Teaming and have done work as a pen tester and support Incident Response team.
+I've been doing Pentesting and Red Teaming, and I have done work as a pen tester and supporting Incident Response team invesgating Cyber attacks.
+My area of expertise are Pentesting, Red teaming, Incident Response, Ethical hacking. And I'm interested in AI, GPT as well.
 
-My area of expertise are Pentesting, Red teaming, Incident Response and Ethical hacking.
+I'm looking for work in cyber security related such as Pen-testing, Red team, Digital Forensics, SOC, Cloud Security. 	
 
-I am looking for software dev work using a language more close-to-the-metal like C or C++, and I believe most of my personal projects on here reflect this!
-	
-### Below are some projects l want to show 
+# Below are projects I have done in the past
 
 |                                                                                                      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 |------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
