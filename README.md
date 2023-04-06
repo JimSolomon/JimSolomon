@@ -3,7 +3,7 @@ Hi there, my name is Jim Solomon and I have 4 years experience in Offensive Secu
 I've been doing Pentesting and Red Teaming, and I have done work as a pen tester and supporting Incident Response team invesgating Cyber attacks.
 My area of expertise are Pentesting, Red teaming, Incident Response, Ethical hacking. And I'm interested in AI, GPT as well.
 
-I'm looking for work in cyber security related such as Pen-testing, Red team, Digital Forensics, SOC and Cloud Security. 	
+I'm looking for work in cyber security related such as Pen-testing, Red team, Digital Forensics, Incident Response, SOC and Cloud Security. 	
 
 Please feel free to contact me on [Linkedin](https://www.linkedin.com/in/jimsolomonx/) for any job opportunities. Thanks!
 # Below are projects I have done in the past
