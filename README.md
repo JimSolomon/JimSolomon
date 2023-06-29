@@ -1,4 +1,4 @@
-Hi there, my name is Jim Solomon and I have 4 years experience in Offensive Security and will be graduated on May 2023 from University. Now, l'm looking for work.
+Hi there, my name is Jim Solomon and I have 4 years experience in Offensive Security and have graduated from University in 2023. Now, l'm looking for work.
 
 I've been doing `Pentesting`, `Red Teaming`, and supported `Incident Response` team to invesgate cyber crime.
 
